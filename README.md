@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-eco-de-tu-risa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for El eco de tu risa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-eco-de-tu-risa/) |
+| **Get License** | [Get License For El eco de tu risa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-eco-de-tu-risa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vienes conmigo
+> El eco de tu risa es mi único castigo
+> Rompiendo las reglas bajo la luna de Madrid
+> Solo quiero perderme, baby, muy dentro de ti
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
