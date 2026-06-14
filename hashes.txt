@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El eco de tu risa
+
+This log tracks the cryptographic history and versioning for the song **El eco de tu risa** (el-eco-de-tu-risa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:59:39.138657 | `v1` | `4f519e63f102fa402c6a03317f0d873753a9816efe1a05f30bfeafbbec4de39a` | `597c82336b163feb47ac8744c142204b518a0d894cd40f426c2331e9abda16ef` | `2026-06-14_el-eco-de-tu-risa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
